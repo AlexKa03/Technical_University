@@ -37,7 +37,7 @@
    - A number is prime if it is divisible without a remainder only by 1 and itself.
 
 10. Exercise
-   - Write an application that displays the following pyramid on the screen:
+    - Write an application that displays the following pyramid on the screen:
 
              1
             22
