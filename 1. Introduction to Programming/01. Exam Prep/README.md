@@ -39,11 +39,11 @@
 10. Exercise
     - Write an application that displays the following pyramid on the screen:
 
-             1
-            22
-           333
-          4444
-         55555
+              1
+             22
+            333
+           4444
+          55555
 
 11. Exercise
     - An application where the user enters an integer and the letter is printed on the screen from the Bulgarian alphabet, which has a sequence number equal to the sum of the
