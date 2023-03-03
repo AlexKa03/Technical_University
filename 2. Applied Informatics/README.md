@@ -4,4 +4,4 @@
 
 This is a discipline where you learn the basics the basics of C language.
 
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)(https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi/related)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)]
