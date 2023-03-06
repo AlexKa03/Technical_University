@@ -1,4 +1,4 @@
-# Add People and Number In List Advanced
+# Add People and Number In List
 
 ## To make a program adding persons in a list
 
