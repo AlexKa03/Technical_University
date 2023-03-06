@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programing\\Technical University\\C#\\Add People In List\\Add People In List\\Add People In List.csproj": {}
+    "C:\\Programing\\GitHub repo\\Technical_University\\2. OOP\\27.02.2023\\1. Add People In List\\Add People In List\\Add People In List.csproj": {}
   },
   "projects": {
-    "C:\\Programing\\Technical University\\C#\\Add People In List\\Add People In List\\Add People In List.csproj": {
+    "C:\\Programing\\GitHub repo\\Technical_University\\2. OOP\\27.02.2023\\1. Add People In List\\Add People In List\\Add People In List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programing\\Technical University\\C#\\Add People In List\\Add People In List\\Add People In List.csproj",
+        "projectUniqueName": "C:\\Programing\\GitHub repo\\Technical_University\\2. OOP\\27.02.2023\\1. Add People In List\\Add People In List\\Add People In List.csproj",
         "projectName": "Add People In List",
-        "projectPath": "C:\\Programing\\Technical University\\C#\\Add People In List\\Add People In List\\Add People In List.csproj",
+        "projectPath": "C:\\Programing\\GitHub repo\\Technical_University\\2. OOP\\27.02.2023\\1. Add People In List\\Add People In List\\Add People In List.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Programing\\Technical University\\C#\\Add People In List\\Add People In List\\obj\\",
+        "outputPath": "C:\\Programing\\GitHub repo\\Technical_University\\2. OOP\\27.02.2023\\1. Add People In List\\Add People In List\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

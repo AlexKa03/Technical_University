@@ -42,9 +42,9 @@
             labelPerson.ForeColor = Color.White;
             labelPerson.Location = new Point(12, 19);
             labelPerson.Name = "labelPerson";
-            labelPerson.Size = new Size(45, 20);
+            labelPerson.Size = new Size(52, 20);
             labelPerson.TabIndex = 0;
-            labelPerson.Text = "Лице";
+            labelPerson.Text = "Person";
             // 
             // textBoxName
             // 
@@ -60,9 +60,9 @@
             labelPersons.ForeColor = Color.White;
             labelPersons.Location = new Point(12, 99);
             labelPersons.Name = "labelPersons";
-            labelPersons.Size = new Size(45, 20);
+            labelPersons.Size = new Size(58, 20);
             labelPersons.TabIndex = 0;
-            labelPersons.Text = "Лица";
+            labelPersons.Text = "Persons";
             // 
             // listBoxPersons
             // 
@@ -109,7 +109,7 @@
             Controls.Add(labelPersons);
             Controls.Add(labelPerson);
             Name = "FormPersons";
-            Text = "Лица";
+            Text = "Persons";
             ResumeLayout(false);
             PerformLayout();
         }

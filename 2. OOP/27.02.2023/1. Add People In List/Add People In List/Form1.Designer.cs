@@ -83,18 +83,18 @@
             label1.AutoSize = true;
             label1.Location = new Point(12, 9);
             label1.Name = "label1";
-            label1.Size = new Size(45, 20);
+            label1.Size = new Size(52, 20);
             label1.TabIndex = 4;
-            label1.Text = "Лице";
+            label1.Text = "Person";
             // 
             // labelOne
             // 
             labelOne.AutoSize = true;
             labelOne.Location = new Point(12, 83);
             labelOne.Name = "labelOne";
-            labelOne.Size = new Size(45, 20);
+            labelOne.Size = new Size(58, 20);
             labelOne.TabIndex = 4;
-            labelOne.Text = "Лица";
+            labelOne.Text = "Persons";
             labelOne.Click += label2_Click;
             // 
             // Form1
@@ -110,7 +110,7 @@
             Controls.Add(textBoxName);
             Controls.Add(listBoxPeople);
             Name = "Form1";
-            Text = "Лица";
+            Text = "Persons";
             ResumeLayout(false);
             PerformLayout();
         }
