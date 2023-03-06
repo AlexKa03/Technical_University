@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add People In List with Class", "Add People In List with Class\Add People In List with Class.csproj", "{98015D49-F0A5-4747-B87A-34C60953E4D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98015D49-F0A5-4747-B87A-34C60953E4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98015D49-F0A5-4747-B87A-34C60953E4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98015D49-F0A5-4747-B87A-34C60953E4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98015D49-F0A5-4747-B87A-34C60953E4D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {403D7F5E-C324-4CAE-9F1A-863D3A019006}
+	EndGlobalSection
+EndGlobal
