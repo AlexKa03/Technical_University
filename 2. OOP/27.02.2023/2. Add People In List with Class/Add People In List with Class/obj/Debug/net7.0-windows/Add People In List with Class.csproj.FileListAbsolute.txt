@@ -15,3 +15,20 @@ C:\Programing\Technical University\C#\Add People In List with Class\Add People I
 C:\Programing\Technical University\C#\Add People In List with Class\Add People In List with Class\obj\Debug\net7.0-windows\Add People In List with Class.pdb
 C:\Programing\Technical University\C#\Add People In List with Class\Add People In List with Class\obj\Debug\net7.0-windows\Add People In List with Class.genruntimeconfig.cache
 C:\Programing\Technical University\C#\Add People In List with Class\Add People In List with Class\obj\Debug\net7.0-windows\ref\Add People In List with Class.dll
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\2. Add People In List with Class\Add People In List with Class\bin\Debug\net7.0-windows\Add People In List with Class.exe
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\2. Add People In List with Class\Add People In List with Class\bin\Debug\net7.0-windows\Add People In List with Class.deps.json
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\2. Add People In List with Class\Add People In List with Class\bin\Debug\net7.0-windows\Add People In List with Class.runtimeconfig.json
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\2. Add People In List with Class\Add People In List with Class\bin\Debug\net7.0-windows\Add People In List with Class.dll
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\2. Add People In List with Class\Add People In List with Class\bin\Debug\net7.0-windows\Add People In List with Class.pdb
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\2. Add People In List with Class\Add People In List with Class\obj\Debug\net7.0-windows\Add People In List with Class.csproj.AssemblyReference.cache
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\2. Add People In List with Class\Add People In List with Class\obj\Debug\net7.0-windows\Add_People_In_List_with_Class.FormPersons.resources
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\2. Add People In List with Class\Add People In List with Class\obj\Debug\net7.0-windows\Add People In List with Class.csproj.GenerateResource.cache
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\2. Add People In List with Class\Add People In List with Class\obj\Debug\net7.0-windows\Add People In List with Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\2. Add People In List with Class\Add People In List with Class\obj\Debug\net7.0-windows\Add People In List with Class.AssemblyInfoInputs.cache
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\2. Add People In List with Class\Add People In List with Class\obj\Debug\net7.0-windows\Add People In List with Class.AssemblyInfo.cs
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\2. Add People In List with Class\Add People In List with Class\obj\Debug\net7.0-windows\Add People In List with Class.csproj.CoreCompileInputs.cache
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\2. Add People In List with Class\Add People In List with Class\obj\Debug\net7.0-windows\Add People In List with Class.dll
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\2. Add People In List with Class\Add People In List with Class\obj\Debug\net7.0-windows\refint\Add People In List with Class.dll
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\2. Add People In List with Class\Add People In List with Class\obj\Debug\net7.0-windows\Add People In List with Class.pdb
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\2. Add People In List with Class\Add People In List with Class\obj\Debug\net7.0-windows\Add People In List with Class.genruntimeconfig.cache
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\2. Add People In List with Class\Add People In List with Class\obj\Debug\net7.0-windows\ref\Add People In List with Class.dll
