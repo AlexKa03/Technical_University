@@ -109,7 +109,7 @@
             Controls.Add(labelPersons);
             Controls.Add(labelPerson);
             Name = "FormPersons";
-            Text = "Persons";
+            Text = "Persons App";
             ResumeLayout(false);
             PerformLayout();
         }

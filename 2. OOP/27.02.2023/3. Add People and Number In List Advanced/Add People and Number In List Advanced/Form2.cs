@@ -2,7 +2,7 @@
 {
     public partial class Form2 : Form
     {
-        private Person _person ;
+        private Person _person;
 
         public Person Person
         {

@@ -101,7 +101,7 @@
             Controls.Add(textBoxNum);
             Controls.Add(textBoxName);
             Name = "Form2";
-            Text = "Person";
+            Text = "Person Dialog";
             ResumeLayout(false);
             PerformLayout();
         }

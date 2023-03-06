@@ -110,7 +110,7 @@
             Controls.Add(textBoxName);
             Controls.Add(listBoxPeople);
             Name = "Form1";
-            Text = "Persons";
+            Text = "PersonsApp";
             ResumeLayout(false);
             PerformLayout();
         }

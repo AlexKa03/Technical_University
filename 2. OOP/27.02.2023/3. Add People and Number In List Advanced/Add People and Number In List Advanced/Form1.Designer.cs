@@ -78,7 +78,7 @@
             Controls.Add(buttonRemove);
             Controls.Add(listBoxPeople);
             Name = "Form1";
-            Text = "People";
+            Text = "People App";
             Load += Form1_Load;
             ResumeLayout(false);
         }
