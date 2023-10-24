@@ -1,0 +1,16 @@
+C:\Alex's Stuff\Programing\C#\Technical University\02. Exam Prep\Exercise 5\bin\Debug\net5.0\Exercise 5.exe
+C:\Alex's Stuff\Programing\C#\Technical University\02. Exam Prep\Exercise 5\bin\Debug\net5.0\Exercise 5.deps.json
+C:\Alex's Stuff\Programing\C#\Technical University\02. Exam Prep\Exercise 5\bin\Debug\net5.0\Exercise 5.runtimeconfig.json
+C:\Alex's Stuff\Programing\C#\Technical University\02. Exam Prep\Exercise 5\bin\Debug\net5.0\Exercise 5.runtimeconfig.dev.json
+C:\Alex's Stuff\Programing\C#\Technical University\02. Exam Prep\Exercise 5\bin\Debug\net5.0\Exercise 5.dll
+C:\Alex's Stuff\Programing\C#\Technical University\02. Exam Prep\Exercise 5\bin\Debug\net5.0\Exercise 5.pdb
+C:\Alex's Stuff\Programing\C#\Technical University\02. Exam Prep\Exercise 5\obj\Debug\net5.0\Exercise 5.csproj.AssemblyReference.cache
+C:\Alex's Stuff\Programing\C#\Technical University\02. Exam Prep\Exercise 5\obj\Debug\net5.0\Exercise 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alex's Stuff\Programing\C#\Technical University\02. Exam Prep\Exercise 5\obj\Debug\net5.0\Exercise 5.AssemblyInfoInputs.cache
+C:\Alex's Stuff\Programing\C#\Technical University\02. Exam Prep\Exercise 5\obj\Debug\net5.0\Exercise 5.AssemblyInfo.cs
+C:\Alex's Stuff\Programing\C#\Technical University\02. Exam Prep\Exercise 5\obj\Debug\net5.0\Exercise 5.csproj.CoreCompileInputs.cache
+C:\Alex's Stuff\Programing\C#\Technical University\02. Exam Prep\Exercise 5\obj\Debug\net5.0\Exercise 5.dll
+C:\Alex's Stuff\Programing\C#\Technical University\02. Exam Prep\Exercise 5\obj\Debug\net5.0\refint\Exercise 5.dll
+C:\Alex's Stuff\Programing\C#\Technical University\02. Exam Prep\Exercise 5\obj\Debug\net5.0\Exercise 5.pdb
+C:\Alex's Stuff\Programing\C#\Technical University\02. Exam Prep\Exercise 5\obj\Debug\net5.0\Exercise 5.genruntimeconfig.cache
+C:\Alex's Stuff\Programing\C#\Technical University\02. Exam Prep\Exercise 5\obj\Debug\net5.0\ref\Exercise 5.dll
