@@ -1,0 +1,34 @@
+C:\Programing\Technical University\C#\Add People In List\Add People In List\bin\Debug\net7.0-windows\Add People In List.exe
+C:\Programing\Technical University\C#\Add People In List\Add People In List\bin\Debug\net7.0-windows\Add People In List.deps.json
+C:\Programing\Technical University\C#\Add People In List\Add People In List\bin\Debug\net7.0-windows\Add People In List.runtimeconfig.json
+C:\Programing\Technical University\C#\Add People In List\Add People In List\bin\Debug\net7.0-windows\Add People In List.dll
+C:\Programing\Technical University\C#\Add People In List\Add People In List\bin\Debug\net7.0-windows\Add People In List.pdb
+C:\Programing\Technical University\C#\Add People In List\Add People In List\obj\Debug\net7.0-windows\Add People In List.csproj.AssemblyReference.cache
+C:\Programing\Technical University\C#\Add People In List\Add People In List\obj\Debug\net7.0-windows\Add_People_In_List.Form1.resources
+C:\Programing\Technical University\C#\Add People In List\Add People In List\obj\Debug\net7.0-windows\Add People In List.csproj.GenerateResource.cache
+C:\Programing\Technical University\C#\Add People In List\Add People In List\obj\Debug\net7.0-windows\Add People In List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\Technical University\C#\Add People In List\Add People In List\obj\Debug\net7.0-windows\Add People In List.AssemblyInfoInputs.cache
+C:\Programing\Technical University\C#\Add People In List\Add People In List\obj\Debug\net7.0-windows\Add People In List.AssemblyInfo.cs
+C:\Programing\Technical University\C#\Add People In List\Add People In List\obj\Debug\net7.0-windows\Add People In List.csproj.CoreCompileInputs.cache
+C:\Programing\Technical University\C#\Add People In List\Add People In List\obj\Debug\net7.0-windows\Add People In List.dll
+C:\Programing\Technical University\C#\Add People In List\Add People In List\obj\Debug\net7.0-windows\refint\Add People In List.dll
+C:\Programing\Technical University\C#\Add People In List\Add People In List\obj\Debug\net7.0-windows\Add People In List.pdb
+C:\Programing\Technical University\C#\Add People In List\Add People In List\obj\Debug\net7.0-windows\Add People In List.genruntimeconfig.cache
+C:\Programing\Technical University\C#\Add People In List\Add People In List\obj\Debug\net7.0-windows\ref\Add People In List.dll
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\1. Add People In List\Add People In List\bin\Debug\net7.0-windows\Add People In List.exe
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\1. Add People In List\Add People In List\bin\Debug\net7.0-windows\Add People In List.deps.json
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\1. Add People In List\Add People In List\bin\Debug\net7.0-windows\Add People In List.runtimeconfig.json
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\1. Add People In List\Add People In List\bin\Debug\net7.0-windows\Add People In List.dll
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\1. Add People In List\Add People In List\bin\Debug\net7.0-windows\Add People In List.pdb
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\1. Add People In List\Add People In List\obj\Debug\net7.0-windows\Add People In List.csproj.AssemblyReference.cache
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\1. Add People In List\Add People In List\obj\Debug\net7.0-windows\Add_People_In_List.Form1.resources
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\1. Add People In List\Add People In List\obj\Debug\net7.0-windows\Add People In List.csproj.GenerateResource.cache
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\1. Add People In List\Add People In List\obj\Debug\net7.0-windows\Add People In List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\1. Add People In List\Add People In List\obj\Debug\net7.0-windows\Add People In List.AssemblyInfoInputs.cache
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\1. Add People In List\Add People In List\obj\Debug\net7.0-windows\Add People In List.AssemblyInfo.cs
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\1. Add People In List\Add People In List\obj\Debug\net7.0-windows\Add People In List.csproj.CoreCompileInputs.cache
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\1. Add People In List\Add People In List\obj\Debug\net7.0-windows\Add People In List.dll
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\1. Add People In List\Add People In List\obj\Debug\net7.0-windows\refint\Add People In List.dll
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\1. Add People In List\Add People In List\obj\Debug\net7.0-windows\Add People In List.pdb
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\1. Add People In List\Add People In List\obj\Debug\net7.0-windows\Add People In List.genruntimeconfig.cache
+C:\Programing\GitHub repo\Technical_University\2. OOP\27.02.2023\1. Add People In List\Add People In List\obj\Debug\net7.0-windows\ref\Add People In List.dll
