@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\1 курс 78\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Users\Administrator\Desktop\1 курс 78\Linq\Linq\bin\Debug\Linq.exe
+C:\Users\Administrator\Desktop\1 курс 78\Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\Administrator\Desktop\1 курс 78\Linq\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\1 курс 78\Linq\Linq\obj\Debug\Linq.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\1 курс 78\Linq\Linq\obj\Debug\Linq.FormMain.resources
+C:\Users\Administrator\Desktop\1 курс 78\Linq\Linq\obj\Debug\Linq.Properties.Resources.resources
+C:\Users\Administrator\Desktop\1 курс 78\Linq\Linq\obj\Debug\Linq.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\1 курс 78\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\1 курс 78\Linq\Linq\obj\Debug\Linq.exe
+C:\Users\Administrator\Desktop\1 курс 78\Linq\Linq\obj\Debug\Linq.pdb

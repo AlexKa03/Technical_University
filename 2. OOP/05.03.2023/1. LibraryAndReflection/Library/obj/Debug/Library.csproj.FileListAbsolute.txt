@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\Library\bin\Debug\Library.dll.config
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\Library\bin\Debug\Library.dll
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\Library\bin\Debug\Library.pdb
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\Library\obj\Debug\Library.dll
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\Library\obj\Debug\Library.pdb

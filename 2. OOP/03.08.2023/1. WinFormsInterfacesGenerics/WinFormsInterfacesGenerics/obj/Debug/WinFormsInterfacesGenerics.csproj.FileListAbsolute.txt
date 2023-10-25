@@ -1,0 +1,10 @@
+C:\Users\BOJO\Desktop\WinFormsInterfacesGenerics\WinFormsInterfacesGenerics\bin\Debug\WinFormsInterfacesGenerics.exe.config
+C:\Users\BOJO\Desktop\WinFormsInterfacesGenerics\WinFormsInterfacesGenerics\bin\Debug\WinFormsInterfacesGenerics.exe
+C:\Users\BOJO\Desktop\WinFormsInterfacesGenerics\WinFormsInterfacesGenerics\bin\Debug\WinFormsInterfacesGenerics.pdb
+C:\Users\BOJO\Desktop\WinFormsInterfacesGenerics\WinFormsInterfacesGenerics\obj\Debug\WinFormsInterfacesGenerics.csproj.AssemblyReference.cache
+C:\Users\BOJO\Desktop\WinFormsInterfacesGenerics\WinFormsInterfacesGenerics\obj\Debug\WinFormsInterfacesGenerics.FormMain.resources
+C:\Users\BOJO\Desktop\WinFormsInterfacesGenerics\WinFormsInterfacesGenerics\obj\Debug\WinFormsInterfacesGenerics.Properties.Resources.resources
+C:\Users\BOJO\Desktop\WinFormsInterfacesGenerics\WinFormsInterfacesGenerics\obj\Debug\WinFormsInterfacesGenerics.csproj.GenerateResource.cache
+C:\Users\BOJO\Desktop\WinFormsInterfacesGenerics\WinFormsInterfacesGenerics\obj\Debug\WinFormsInterfacesGenerics.csproj.CoreCompileInputs.cache
+C:\Users\BOJO\Desktop\WinFormsInterfacesGenerics\WinFormsInterfacesGenerics\obj\Debug\WinFormsInterfacesGenerics.exe
+C:\Users\BOJO\Desktop\WinFormsInterfacesGenerics\WinFormsInterfacesGenerics\obj\Debug\WinFormsInterfacesGenerics.pdb
