@@ -15,3 +15,19 @@ C:\Programing\Technical University\C#\Object Oriented Programing\PaintApp\Paint\
 C:\Programing\Technical University\C#\Object Oriented Programing\PaintApp\Paint\obj\Debug\net7.0-windows\Paint.pdb
 C:\Programing\Technical University\C#\Object Oriented Programing\PaintApp\Paint\obj\Debug\net7.0-windows\Paint.genruntimeconfig.cache
 C:\Programing\Technical University\C#\Object Oriented Programing\PaintApp\Paint\obj\Debug\net7.0-windows\ref\Paint.dll
+C:\Programing\GitHub repo\Technical_University\2. OOP\06.03.2023\PaintApp\Paint\bin\Debug\net7.0-windows\Paint.exe
+C:\Programing\GitHub repo\Technical_University\2. OOP\06.03.2023\PaintApp\Paint\bin\Debug\net7.0-windows\Paint.deps.json
+C:\Programing\GitHub repo\Technical_University\2. OOP\06.03.2023\PaintApp\Paint\bin\Debug\net7.0-windows\Paint.runtimeconfig.json
+C:\Programing\GitHub repo\Technical_University\2. OOP\06.03.2023\PaintApp\Paint\bin\Debug\net7.0-windows\Paint.dll
+C:\Programing\GitHub repo\Technical_University\2. OOP\06.03.2023\PaintApp\Paint\bin\Debug\net7.0-windows\Paint.pdb
+C:\Programing\GitHub repo\Technical_University\2. OOP\06.03.2023\PaintApp\Paint\obj\Debug\net7.0-windows\Paint.FormMain.resources
+C:\Programing\GitHub repo\Technical_University\2. OOP\06.03.2023\PaintApp\Paint\obj\Debug\net7.0-windows\Paint.csproj.GenerateResource.cache
+C:\Programing\GitHub repo\Technical_University\2. OOP\06.03.2023\PaintApp\Paint\obj\Debug\net7.0-windows\Paint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\GitHub repo\Technical_University\2. OOP\06.03.2023\PaintApp\Paint\obj\Debug\net7.0-windows\Paint.AssemblyInfoInputs.cache
+C:\Programing\GitHub repo\Technical_University\2. OOP\06.03.2023\PaintApp\Paint\obj\Debug\net7.0-windows\Paint.AssemblyInfo.cs
+C:\Programing\GitHub repo\Technical_University\2. OOP\06.03.2023\PaintApp\Paint\obj\Debug\net7.0-windows\Paint.csproj.CoreCompileInputs.cache
+C:\Programing\GitHub repo\Technical_University\2. OOP\06.03.2023\PaintApp\Paint\obj\Debug\net7.0-windows\Paint.dll
+C:\Programing\GitHub repo\Technical_University\2. OOP\06.03.2023\PaintApp\Paint\obj\Debug\net7.0-windows\refint\Paint.dll
+C:\Programing\GitHub repo\Technical_University\2. OOP\06.03.2023\PaintApp\Paint\obj\Debug\net7.0-windows\Paint.pdb
+C:\Programing\GitHub repo\Technical_University\2. OOP\06.03.2023\PaintApp\Paint\obj\Debug\net7.0-windows\Paint.genruntimeconfig.cache
+C:\Programing\GitHub repo\Technical_University\2. OOP\06.03.2023\PaintApp\Paint\obj\Debug\net7.0-windows\ref\Paint.dll
