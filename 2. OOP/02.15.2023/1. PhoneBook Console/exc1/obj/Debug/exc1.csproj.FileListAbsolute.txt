@@ -1,0 +1,14 @@
+C:\Users\asya_\OneDrive\Работен плот\OOP_Angel\OOP\1\E1\exc1\bin\Debug\exc1.exe.config
+C:\Users\asya_\OneDrive\Работен плот\OOP_Angel\OOP\1\E1\exc1\bin\Debug\exc1.exe
+C:\Users\asya_\OneDrive\Работен плот\OOP_Angel\OOP\1\E1\exc1\bin\Debug\exc1.pdb
+C:\Users\asya_\OneDrive\Работен плот\OOP_Angel\OOP\1\E1\exc1\obj\Debug\exc1.csprojAssemblyReference.cache
+C:\Users\asya_\OneDrive\Работен плот\OOP_Angel\OOP\1\E1\exc1\obj\Debug\exc1.csproj.CoreCompileInputs.cache
+C:\Users\asya_\OneDrive\Работен плот\OOP_Angel\OOP\1\E1\exc1\obj\Debug\exc1.exe
+C:\Users\asya_\OneDrive\Работен плот\OOP_Angel\OOP\1\E1\exc1\obj\Debug\exc1.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\Technical_University\2. OOP\03.06.2023\E1\exc1\bin\Debug\exc1.exe.config
+C:\Users\alex_\OneDrive\Документи\GitHub\Technical_University\2. OOP\03.06.2023\E1\exc1\bin\Debug\exc1.exe
+C:\Users\alex_\OneDrive\Документи\GitHub\Technical_University\2. OOP\03.06.2023\E1\exc1\bin\Debug\exc1.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\Technical_University\2. OOP\03.06.2023\E1\exc1\obj\Debug\exc1.csproj.AssemblyReference.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\Technical_University\2. OOP\03.06.2023\E1\exc1\obj\Debug\exc1.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\Technical_University\2. OOP\03.06.2023\E1\exc1\obj\Debug\exc1.exe
+C:\Users\alex_\OneDrive\Документи\GitHub\Technical_University\2. OOP\03.06.2023\E1\exc1\obj\Debug\exc1.pdb

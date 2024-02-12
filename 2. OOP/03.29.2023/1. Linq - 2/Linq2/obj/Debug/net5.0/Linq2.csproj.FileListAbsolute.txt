@@ -1,0 +1,16 @@
+C:\Users\BOJO\Desktop\Linq2\Linq2\bin\Debug\net5.0\Linq2.exe
+C:\Users\BOJO\Desktop\Linq2\Linq2\bin\Debug\net5.0\Linq2.deps.json
+C:\Users\BOJO\Desktop\Linq2\Linq2\bin\Debug\net5.0\Linq2.runtimeconfig.json
+C:\Users\BOJO\Desktop\Linq2\Linq2\bin\Debug\net5.0\Linq2.runtimeconfig.dev.json
+C:\Users\BOJO\Desktop\Linq2\Linq2\bin\Debug\net5.0\Linq2.dll
+C:\Users\BOJO\Desktop\Linq2\Linq2\bin\Debug\net5.0\ref\Linq2.dll
+C:\Users\BOJO\Desktop\Linq2\Linq2\bin\Debug\net5.0\Linq2.pdb
+C:\Users\BOJO\Desktop\Linq2\Linq2\obj\Debug\net5.0\Linq2.csproj.AssemblyReference.cache
+C:\Users\BOJO\Desktop\Linq2\Linq2\obj\Debug\net5.0\Linq2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOJO\Desktop\Linq2\Linq2\obj\Debug\net5.0\Linq2.AssemblyInfoInputs.cache
+C:\Users\BOJO\Desktop\Linq2\Linq2\obj\Debug\net5.0\Linq2.AssemblyInfo.cs
+C:\Users\BOJO\Desktop\Linq2\Linq2\obj\Debug\net5.0\Linq2.csproj.CoreCompileInputs.cache
+C:\Users\BOJO\Desktop\Linq2\Linq2\obj\Debug\net5.0\Linq2.dll
+C:\Users\BOJO\Desktop\Linq2\Linq2\obj\Debug\net5.0\ref\Linq2.dll
+C:\Users\BOJO\Desktop\Linq2\Linq2\obj\Debug\net5.0\Linq2.pdb
+C:\Users\BOJO\Desktop\Linq2\Linq2\obj\Debug\net5.0\Linq2.genruntimeconfig.cache

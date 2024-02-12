@@ -1,0 +1,23 @@
+C:\Users\Administrator\Desktop\1 курс 78\WinForms1\WinForms1\bin\Debug\WinForms1.exe.config
+C:\Users\Administrator\Desktop\1 курс 78\WinForms1\WinForms1\bin\Debug\WinForms1.exe
+C:\Users\Administrator\Desktop\1 курс 78\WinForms1\WinForms1\bin\Debug\WinForms1.pdb
+C:\Users\Administrator\Desktop\1 курс 78\WinForms1\WinForms1\obj\Debug\WinForms1.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\1 курс 78\WinForms1\WinForms1\obj\Debug\WinForms1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\1 курс 78\WinForms1\WinForms1\obj\Debug\WinForms1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\1 курс 78\WinForms1\WinForms1\obj\Debug\WinForms1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\1 курс 78\WinForms1\WinForms1\obj\Debug\WinForms1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\1 курс 78\WinForms1\WinForms1\obj\Debug\WinForms1.exe
+C:\Users\Administrator\Desktop\1 курс 78\WinForms1\WinForms1\obj\Debug\WinForms1.pdb
+C:\Users\Administrator\Desktop\1 курс 78\WinForms1\WinForms1\obj\Debug\WinForms1.FormLogin.resources
+C:\Users\Administrator\Desktop\1 курс 78\WinForms1\WinForms1\obj\Debug\WinForms1.FormRegister.resources
+C:\Users\alex_\OneDrive\Документи\GitHub\Technical_University\2. OOP\02.22.2023\WinForms1\WinForms1\bin\Debug\WinForms1.exe.config
+C:\Users\alex_\OneDrive\Документи\GitHub\Technical_University\2. OOP\02.22.2023\WinForms1\WinForms1\bin\Debug\WinForms1.exe
+C:\Users\alex_\OneDrive\Документи\GitHub\Technical_University\2. OOP\02.22.2023\WinForms1\WinForms1\bin\Debug\WinForms1.pdb
+C:\Users\alex_\OneDrive\Документи\GitHub\Technical_University\2. OOP\02.22.2023\WinForms1\WinForms1\obj\Debug\WinForms1.csproj.AssemblyReference.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\Technical_University\2. OOP\02.22.2023\WinForms1\WinForms1\obj\Debug\WinForms1.FormLogin.resources
+C:\Users\alex_\OneDrive\Документи\GitHub\Technical_University\2. OOP\02.22.2023\WinForms1\WinForms1\obj\Debug\WinForms1.FormRegister.resources
+C:\Users\alex_\OneDrive\Документи\GitHub\Technical_University\2. OOP\02.22.2023\WinForms1\WinForms1\obj\Debug\WinForms1.Properties.Resources.resources
+C:\Users\alex_\OneDrive\Документи\GitHub\Technical_University\2. OOP\02.22.2023\WinForms1\WinForms1\obj\Debug\WinForms1.csproj.GenerateResource.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\Technical_University\2. OOP\02.22.2023\WinForms1\WinForms1\obj\Debug\WinForms1.csproj.CoreCompileInputs.cache
+C:\Users\alex_\OneDrive\Документи\GitHub\Technical_University\2. OOP\02.22.2023\WinForms1\WinForms1\obj\Debug\WinForms1.exe
+C:\Users\alex_\OneDrive\Документи\GitHub\Technical_University\2. OOP\02.22.2023\WinForms1\WinForms1\obj\Debug\WinForms1.pdb
