@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Orc" size="0.143900 0.121416" />
+    <ImageTarget name="Golem" size="0.152100 0.114802" />
+    <ImageTarget name="Wizard" size="0.117200 0.148947" />
+  </Tracking>
+</QCARConfig>
