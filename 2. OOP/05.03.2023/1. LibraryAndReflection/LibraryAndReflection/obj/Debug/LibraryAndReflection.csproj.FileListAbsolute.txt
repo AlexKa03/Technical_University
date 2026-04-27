@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\LibraryAndReflection\bin\Debug\LibraryAndReflection.exe.config
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\LibraryAndReflection\bin\Debug\LibraryAndReflection.exe
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\LibraryAndReflection\bin\Debug\LibraryAndReflection.pdb
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\LibraryAndReflection\obj\Debug\LibraryAndReflection.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\LibraryAndReflection\obj\Debug\LibraryAndReflection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\LibraryAndReflection\obj\Debug\LibraryAndReflection.Properties.Resources.resources
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\LibraryAndReflection\obj\Debug\LibraryAndReflection.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\LibraryAndReflection\obj\Debug\LibraryAndReflection.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\LibraryAndReflection\obj\Debug\LibraryAndReflection.exe
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\LibraryAndReflection\obj\Debug\LibraryAndReflection.pdb
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\LibraryAndReflection\bin\Debug\Library.dll
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\LibraryAndReflection\bin\Debug\Library.pdb
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\LibraryAndReflection\bin\Debug\Library.dll.config
+C:\Users\Administrator\Desktop\1 курс 78\LibraryAndReflection\LibraryAndReflection\obj\Debug\LibraryAndReflection.csproj.CopyComplete

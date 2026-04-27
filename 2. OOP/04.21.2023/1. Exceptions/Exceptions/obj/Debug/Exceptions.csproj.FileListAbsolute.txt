@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\1 курс 78\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Administrator\Desktop\1 курс 78\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Administrator\Desktop\1 курс 78\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Administrator\Desktop\1 курс 78\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\1 курс 78\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\1 курс 78\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\1 курс 78\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Administrator\Desktop\1 курс 78\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
