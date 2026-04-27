@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="KvbUgxnPOFKBatUNvXDx">
+    <mxGraphModel dx="2066" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_2yY7y9dq72O2Q6a8lbY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startSize=11;dashed=1;" edge="1" parent="1" source="_2yY7y9dq72O2Q6a8lbY-1" target="_2yY7y9dq72O2Q6a8lbY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2yY7y9dq72O2Q6a8lbY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;startSize=11;strokeColor=#000000;" edge="1" parent="1" source="_2yY7y9dq72O2Q6a8lbY-1" target="_2yY7y9dq72O2Q6a8lbY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2yY7y9dq72O2Q6a8lbY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=11;" edge="1" parent="1" source="_2yY7y9dq72O2Q6a8lbY-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="350" />
+              <mxPoint x="180" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_2yY7y9dq72O2Q6a8lbY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=11;" edge="1" parent="1" source="_2yY7y9dq72O2Q6a8lbY-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="350" />
+              <mxPoint x="670" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_2yY7y9dq72O2Q6a8lbY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startSize=11;" edge="1" parent="1" source="_2yY7y9dq72O2Q6a8lbY-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="426.6999999999998" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_2yY7y9dq72O2Q6a8lbY-1" value="Router&lt;div&gt;Local IP:&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;192.168.0.1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Mac a&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ddres:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;E4:FA:C4:CF:33:16&lt;/span&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="386.7" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_2yY7y9dq72O2Q6a8lbY-2" value="MacBook&lt;div&gt;Local IP:&amp;nbsp;192.168.0.6&lt;/div&gt;&lt;div&gt;Mac addres:&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;9A:80:AC:76:3D:68&lt;/span&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/MacBook_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="140" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_2yY7y9dq72O2Q6a8lbY-3" value="Personal&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;computer&lt;/span&gt;&lt;div&gt;Local IP:&amp;nbsp;&lt;span style=&quot;color: rgb(54, 68, 75); font-family: Arial, Verdana, Geneva, sans-serif; text-wrap-mode: wrap; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;192.168.0.5&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(54, 68, 75); font-family: Arial, Verdana, Geneva, sans-serif; text-wrap-mode: wrap; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Mac addres:&amp;nbsp;&lt;/span&gt;&lt;font face=&quot;Arial, Verdana, Geneva, sans-serif&quot; color=&quot;#36444b&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;70:85:C2:38:99:04&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;imageBackground=none;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="157.2" y="150" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="_2yY7y9dq72O2Q6a8lbY-4" value="Work computer&lt;div&gt;Local IP:&amp;nbsp;&lt;span style=&quot;color: rgb(54, 68, 75); font-family: Arial, Verdana, Geneva, sans-serif; text-wrap-mode: wrap; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;192.168.0.3&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(54, 68, 75); font-family: Arial, Verdana, Geneva, sans-serif; text-wrap-mode: wrap; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Mac addres:&amp;nbsp;&lt;/span&gt;&lt;font face=&quot;Arial, Verdana, Geneva, sans-serif&quot; color=&quot;#36444b&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;18:60:24:E9:EA:EE&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="647.2" y="150" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="_2yY7y9dq72O2Q6a8lbY-5" value="PlayStation 5&lt;div&gt;Local IP:&amp;nbsp;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;192.168.0.4&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;Mac addres:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;98:FA:2E:D2:9D:1A&lt;/span&gt;&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Ionicons-2627/icon-game-controller-b-1166.svg" vertex="1" parent="1">
+          <mxGeometry x="391.2" y="140.8" width="71" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="_2yY7y9dq72O2Q6a8lbY-6" value="Phone&lt;div&gt;Local IP:&amp;nbsp;192.168.0.2&lt;/div&gt;&lt;div&gt;Mac addres:&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;72:B6:F2:C6:35:8A&lt;/span&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="630" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_2yY7y9dq72O2Q6a8lbY-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="610" as="sourcePoint" />
+            <mxPoint x="210" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_2yY7y9dq72O2Q6a8lbY-18" value="Legend" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_2yY7y9dq72O2Q6a8lbY-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="650" as="sourcePoint" />
+            <mxPoint x="210" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_2yY7y9dq72O2Q6a8lbY-20" value="Wi-Fi&amp;nbsp;Wireless&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="590" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_2yY7y9dq72O2Q6a8lbY-21" value="Wired" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="630" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_2yY7y9dq72O2Q6a8lbY-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120.00000000000001" y="550" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_2yY7y9dq72O2Q6a8lbY-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.995;exitY=0.355;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="580" as="sourcePoint" />
+            <mxPoint x="121" y="580.95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
