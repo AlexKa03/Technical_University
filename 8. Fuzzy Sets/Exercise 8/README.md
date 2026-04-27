@@ -1,0 +1,1 @@
+# [Exercise 8](https://scikit-fuzzy.readthedocs.io/en/latest/auto_examples/plot_defuzzify.html)

@@ -1,0 +1,1 @@
+# [Exercise 6](https://scikit-fuzzy.readthedocs.io/en/latest/auto_examples/plot_control_system_advanced.html)
