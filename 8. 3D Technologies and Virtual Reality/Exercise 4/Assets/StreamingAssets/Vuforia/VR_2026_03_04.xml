@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="close" size="0.200000 0.099609" />
+    <ImageTarget name="open" size="0.200000 0.099609" />
+    <ImageTarget name="landingplatform" size="0.200000 0.200000" />
+  </Tracking>
+</QCARConfig>
